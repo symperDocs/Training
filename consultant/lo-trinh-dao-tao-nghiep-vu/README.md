@@ -1,4 +1,4 @@
-# Lộ trình đào tạo
+# Lộ trình đào tạo Nghiệp vụ
 
 
 
@@ -14,10 +14,10 @@ Xem qua [**sơ đồ tổ chức**](https://inter.apps.symper.vn/#/orgchart/117/
 2 - CÁC QUY ĐỊNH CHUNG
 
 3 - DNA CỦA SYMPER\
-[**DNA symper**](https://docs.google.com/spreadsheets/d/1B\_2jAyh6uCGSUPyyEAiRVXnlOGXCDS0eMXjoq9DQ7Q/edit#gid=1016885339)****
+[**DNA symper**](https://docs.google.com/spreadsheets/d/1B\_2jAyh6uCGSUPyyEAiRVXnlOGXCDS0eMXjoq9DQ7Q/edit#gid=1016885339)
 
 4 - QUY TRÌNH LÀM VIỆC\
-[**Quy trình làm việc**](https://teams.microsoft.com/l/message/19:49e55bee9c3b4153a58649817561c936@thread.tacv2/1592193202314?tenantId=34bb8d97-3032-4d52-af9a-0a7fc61c52b8\&groupId=70758912-c08e-4290-a7a5-5c2a0a648945\&parentMessageId=1592193202314\&teamName=Symper%20Intern\&channelName=Guideline\&createdTime=1592193202314)****
+[**Quy trình làm việc**](https://teams.microsoft.com/l/message/19:49e55bee9c3b4153a58649817561c936@thread.tacv2/1592193202314?tenantId=34bb8d97-3032-4d52-af9a-0a7fc61c52b8\&groupId=70758912-c08e-4290-a7a5-5c2a0a648945\&parentMessageId=1592193202314\&teamName=Symper%20Intern\&channelName=Guideline\&createdTime=1592193202314)
 
 5 - BA TEAM CHARTER\
 Một số các [**quy định và rule**](https://docs.google.com/spreadsheets/d/1yhjma0Ftnj33ogJu3QDbWvJ6FTX0jO90ezLfnMOM6sk/edit#gid=0) làm việc
@@ -25,15 +25,15 @@ Một số các [**quy định và rule**](https://docs.google.com/spreadsheets/
 6 - QUẢN LÝ CÔNG VIỆC TRÊN HỆ THỐNG SYMPER
 
 7 - GIỚI THIỆU SẢN PHẨM SYMPER\
-Giới thiệu qua về [**quy trình làm việc Symper**](https://docs.google.com/presentation/d/1k9BQgES\_Y9cfngKtwfBD7t35HgVgHXvA6FZqMCAeyM/edit#slide=id.p)****
+Giới thiệu qua về [**quy trình làm việc Symper**](https://docs.google.com/presentation/d/1k9BQgES\_Y9cfngKtwfBD7t35HgVgHXvA6FZqMCAeyM/edit#slide=id.p)
 
 ### I.2: SYMPER DOCUMENT CONCEPT
 
-Truy cập vào [**slide**](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-module-document) và các video [**1**](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-module-document), [**2**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESzXwiFWsolFlPUz4ruGlwwBbjQe-6mxijXlp6FReTCoMw?e=cywFq3), [**3**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ERd34goJtehFrOIH9lUxPX8BBeeVJkNj4-DXvSyiBn5Ahw?e=ndPY04) của bài giảng
+Truy cập vào [**slide**](./#chuong-i-tong-quan-ve-symper-module-document) và các video [**1**](./#chuong-i-tong-quan-ve-symper-module-document), [**2**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ESzXwiFWsolFlPUz4ruGlwwBbjQe-6mxijXlp6FReTCoMw?e=cywFq3), [**3**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ERd34goJtehFrOIH9lUxPX8BBeeVJkNj4-DXvSyiBn5Ahw?e=ndPY04) của bài giảng
 
 1 - GIỚI THIỆU CƠ BẢN VỀ MÔ HÌNH WEB CLIENT - SERVER (SERVER SIDE, CLIENT SIDE)
 
-****[**Tìm hiểu về mô hình client server**](https://codelearn.io/sharing/tim-hieu-ve-mo-hinh-client-server)
+[**Tìm hiểu về mô hình client server**](https://codelearn.io/sharing/tim-hieu-ve-mo-hinh-client-server)
 
 2 - HỌC CONCEPT VỀ DOCUMENT
 
@@ -53,7 +53,7 @@ Formula: [https://docs.google.com/spreadsheets/d/18CL\_CNZ5gAsDbdO3InhbtJDteXOlp
 {% endhint %}
 
 {% hint style="info" %}
-[Tham khảo về SQL](https://app.gitbook.com/s/-McNyP8y\_A8MZOZl5QPQ/formula/sql-basic)
+[Tham khảo về SQL](http://127.0.0.1:5000/s/-McNyP8y\_A8MZOZl5QPQ/formula/sql-basic)
 {% endhint %}
 
 ### I.3: XÂY DỰNG DOCUMENT CƠ BẢN
@@ -90,7 +90,7 @@ Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/
 
 ### II.1: WORKFLOW CONCEPT
 
-Truy cập vào [**slide** ](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-module-document)và [**video** ](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EXuIMifQqPZIhqhi8PjM8AYBH3DWTU\_uqpFm6ikKEQIrsQ?e=xaV3US)của bài giảng.
+Truy cập vào [**slide** ](./#chuong-i-tong-quan-ve-symper-module-document)và [**video** ](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EXuIMifQqPZIhqhi8PjM8AYBH3DWTU\_uqpFm6ikKEQIrsQ?e=xaV3US)của bài giảng.
 
 1. GIỚI THIỆU VỀ WORKFLOW
 2. HỌC CONCEPT VỀ WORKFLOW SYMPER
@@ -102,7 +102,7 @@ Truy cập vào [**slide** ](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-mo
 
 ### II.2: WORKFLOW OBJECT & TASK LIFE CYCLE
 
-Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/EdfJ2De80c1GpizcHtuBsC0BGO41jA\_AyLRVael0U8YTYQ?e=tpbaLo)và [**video** ](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-module-document)của bài giảng.
+Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/EdfJ2De80c1GpizcHtuBsC0BGO41jA\_AyLRVael0U8YTYQ?e=tpbaLo)và [**video** ](./#chuong-i-tong-quan-ve-symper-module-document)của bài giảng.
 
 1. HƯỚNG DẪN ĐỊNH NGHĨA VỀ PROCESS DEFINITION, PROCESS INSTANCE TRÊN SYMPER WORKFLOW
 2. GIỚI THIỆU MODULE USER, CÁCH LẤY USER ĐỂ THỰC HIỆN CÔNG VIỆC
@@ -126,7 +126,7 @@ Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/
 
 ### II.5: EVENT
 
-Truy cập vào [**sli  de** ](lo-trinh-dao-tao.md#ii.5-event)và [**video 1**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ETT0w-IISJ5Ms4KNgp-gC6IBa8hYFAPWfCtjE-ob7SCkLQ?e=e4DG8n), [**video 2**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ET6n9lxW9pNCsmKHxdXf-m4BkljTVZfffFEVh0lEiWKU4g?e=mIjUw2) của bài giảng.
+Truy cập vào [**sli  de** ](./#ii.5-event)và [**video 1**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ETT0w-IISJ5Ms4KNgp-gC6IBa8hYFAPWfCtjE-ob7SCkLQ?e=e4DG8n), [**video 2**](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/ET6n9lxW9pNCsmKHxdXf-m4BkljTVZfffFEVh0lEiWKU4g?e=mIjUw2) của bài giảng.
 
 1. GIỚI THIỆU VỀ EVENT TRONG BPMN 2.0
 2. GIỚI THIỆU VỀ START EVENT, INTERMEDIATE EVENT, BOUNDARY EVENT
@@ -147,7 +147,7 @@ Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/
 
 ### III.1: SYMPER ACCESS CONTROL
 
-Truy cập vào [**slide 1**](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-module-document), [**slide 2**](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/ESQiXduuw6BIrJKnz\_3dr\_sBm2MzxD\_0od7xd523nBjAlA) và [**video** ](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdrkMNJDl9pAuN\_FnGHxNtEBUrDXJemo206QOH16hOBWpQ?e=Kyxuug)của bài giảng.
+Truy cập vào [**slide 1**](./#chuong-i-tong-quan-ve-symper-module-document), [**slide 2**](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/ESQiXduuw6BIrJKnz\_3dr\_sBm2MzxD\_0od7xd523nBjAlA) và [**video** ](https://ywb69zeduvn.sharepoint.com/:v:/s/Symper347/EdrkMNJDl9pAuN\_FnGHxNtEBUrDXJemo206QOH16hOBWpQ?e=Kyxuug)của bài giảng.
 
 1. TỔNG QUAN VỀ SYMPER ACCESS CONTROL
 2. GIỚI THIỆU MÔ HÌNH PHÂN QUYỀN RBAC, MỘT SỐ MÔ HÌNH PHÂN QUYỀN KHÁC
@@ -192,7 +192,7 @@ Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/
 
 ### IV.2: DASHBOARD
 
-Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/ESzNdMpoLRVEt5sDis-mtlEBU7cn7rFvZmui1zO7YqMZsw)và [**video** ](lo-trinh-dao-tao.md#chuong-i-tong-quan-ve-symper-module-document)của bài giảng.
+Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/ESzNdMpoLRVEt5sDis-mtlEBU7cn7rFvZmui1zO7YqMZsw)và [**video** ](./#chuong-i-tong-quan-ve-symper-module-document)của bài giảng.
 
 1. CÁC LOẠI CHART, KHI NÀO THÌ SỬ DỤNG?
 2. DASHBOARD EDITOR
@@ -212,7 +212,7 @@ Truy cập vào [**slide** ](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/
 
 ### IV.4: DATASETTruy cập vào slide và video của bài giảng.
 
-Truy cập vào **** [**slide**](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/Ea8aIXvKJDpHmML11Aniz8wB62vc9JFQIM\_3rpuI6uCwBw?e=U4as0E) và **** [**video**](https://ywb69zeduvn.sharepoint.com/sites/Symper347/\_layouts/15/stream.aspx?id=%2Fsites%2FSymper347%2FShared%20Documents%2FTrainning%20no%CC%A3%CC%82i%20bo%CC%A3%CC%82%2FQC%2FCh%C6%B0%C6%A1ng%20IV%2E3%2E%20Dataset%5FHoanp%2Emp4\&ga=1) của bài giảng.
+Truy cập vào [**slide**](https://ywb69zeduvn.sharepoint.com/:p:/s/Symper347/Ea8aIXvKJDpHmML11Aniz8wB62vc9JFQIM\_3rpuI6uCwBw?e=U4as0E) và [**video**](https://ywb69zeduvn.sharepoint.com/sites/Symper347/\_layouts/15/stream.aspx?id=%2Fsites%2FSymper347%2FShared%20Documents%2FTrainning%20no%CC%A3%CC%82i%20bo%CC%A3%CC%82%2FQC%2FCh%C6%B0%C6%A1ng%20IV%2E3%2E%20Dataset%5FHoanp%2Emp4\&ga=1) của bài giảng.
 
 1. DATASET LÀ GÌ? TẠI SAO CẦN?
 2. CÁCH CẦU HÌNH 1 DATASET
