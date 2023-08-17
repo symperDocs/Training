@@ -1,6 +1,7 @@
 # Table of contents
 
 * [SAB](README.md)
+  * [SCRIPT (SQL,...)](sab/script-sql-....md)
   * [DOCUMENT](sab/document.md)
   * [WORKFLOW](sab/workflow.md)
   * [BUSINESS INTELLIGENCE](sab/business-intelligence/README.md)
@@ -9,7 +10,11 @@
     * [DATASET](sab/business-intelligence/dataset.md)
   * [ORGCHART](sab/orgchart.md)
   * [ACCESS CONTROL](sab/access-control.md)
-  * [KẾT NỐI DỮ LIỆU](sab/ket-noi-du-lieu.md)
+  * [DATA CONNECTOR](sab/data-connector.md)
+  * [BUNDLE MANAGEMENT](sab/bundle-management.md)
+  * [TENANT MANAGEMENT](sab/tenant-management.md)
+  * [CROSS TENANT](sab/cross-tenant.md)
+  * [INTEGRATION](sab/integration.md)
 * [CONSULTANT](consultant/README.md)
   * [Skillset CONSULTANT](consultant/skillset-consultant.md)
   * [Lộ trình đào tạo Tools](consultant/lo-trinh-dao-tao-tools/README.md)
