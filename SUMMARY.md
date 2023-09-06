@@ -22,6 +22,7 @@
     * [Bài tập training cho BA](consultant/lo-trinh-dao-tao-tools/bai-tap-training-cho-ba.md)
   * [Lộ trình đào tạo Nghiệp vụ](consultant/lo-trinh-dao-tao-nghiep-vu/README.md)
     * [Mục tiêu đào tạo](consultant/lo-trinh-dao-tao-nghiep-vu/muc-tieu-dao-tao.md)
+    * [Timeline](consultant/lo-trinh-dao-tao-nghiep-vu/timeline.md)
     * [Bài tập training cho BA](consultant/lo-trinh-dao-tao-nghiep-vu/bai-tap-training-cho-ba.md)
 * [DEV](dev/README.md)
   * [Lộ trình đào tạo](dev/lo-trinh-dao-tao.md)
