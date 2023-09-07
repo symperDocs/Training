@@ -1,4 +1,8 @@
-# Timeline
+---
+description: 'Creator: Thangnt - 2023/09/08'
+---
+
+# Timeline tổng quan
 
 1. **Giai đoạn study**
    1. Study nguyên lý kế toán (Đặc biệt là cách lên sổ)
