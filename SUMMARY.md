@@ -23,6 +23,7 @@
   * [Lộ trình đào tạo Nghiệp vụ](consultant/lo-trinh-dao-tao-nghiep-vu/README.md)
     * [Mục tiêu đào tạo](consultant/lo-trinh-dao-tao-nghiep-vu/muc-tieu-dao-tao.md)
     * [Timeline tổng quan](consultant/lo-trinh-dao-tao-nghiep-vu/timeline-tong-quan/README.md)
+      * [Buổi 2: Luồng Bán hàng](consultant/lo-trinh-dao-tao-nghiep-vu/timeline-tong-quan/buoi-2-luong-ban-hang.md)
       * [Buổi 1: Danh mục](consultant/lo-trinh-dao-tao-nghiep-vu/timeline-tong-quan/buoi-1-danh-muc.md)
     * [Bài tập training cho BA](consultant/lo-trinh-dao-tao-nghiep-vu/bai-tap-training-cho-ba.md)
 * [DEV](dev/README.md)
