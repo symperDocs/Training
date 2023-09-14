@@ -1,5 +1,8 @@
 ---
-description: 'Creator: Thangnt - 2023/09/08'
+description: >-
+  Creator: Thangnt -
+  2023/09/08                                                       Editor:
+  Huongntm - 2023/09/14
 ---
 
 # Timeline tổng quan
